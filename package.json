@@ -2,8 +2,8 @@
   "name": "portofolio",
   "version": "1.0.0",
   "description": "cv pribadi",
-  "main": "index.js",
-  "homepage": "https://sjarief.github.io/portofolio_pribadi",
+  "main": "index.html",
+  "homepage": "https://sjarief.github.io/profil_pribadi",
   "scripts": {
     "sass": "node-sass -w scss/ -o dist/css/ --recursive",
     "deploy": "gh-pages -d dist"
